@@ -5,7 +5,7 @@ excerpt: >-
 date: '2021-02-18'
 thumb_img_path: images/aftermath-logo.png
 thumb_img_alt: Aftermath Logo
-content_img_path: images/9.jpg
+content_img_path: images/aftermath-logo.png
 content_img_alt: A white modern house
 seo:
   title: The Advantages and Disadvantages of Working from Home
