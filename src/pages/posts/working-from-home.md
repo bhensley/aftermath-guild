@@ -2,7 +2,7 @@
 title: New Guild Who Dis?
 excerpt: >-
   The Aftermath is officially a thing.  Splitting off from a dysfunctional guild, we are keen on continuing mythic progression into Shadowlands.  Let's kick some ass!
-date: '2019-03-30'
+date: '2021-03-30'
 thumb_img_path: images/aftermath-logo.png
 thumb_img_alt: A white modern house
 content_img_path: images/9.jpg
