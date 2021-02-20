@@ -13,8 +13,8 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Apply",
+                "url": "/apply",
                 "style": "link"
             }
         ]
