@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: New Guild Who Dis?
     - name: 'twitter:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: The Aftermath is a new guild, raiding on Zul'Jin Horde!
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
