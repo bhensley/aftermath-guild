@@ -9,7 +9,7 @@ content_img_path: images/aftermath-logo.png
 content_img_alt: Aftermath Logo
 seo:
   title: New Guild Who Dis?
-  description: Work at home parent is an entrepreneur who works from home
+  description: The Aftermath is a new guild, raiding on Zul'Jin Horde!
   extra:
     - name: 'og:type'
       value: article
