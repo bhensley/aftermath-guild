@@ -2,16 +2,13 @@
 title: Home
 has_intro: true
 intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+  <The Aftermath> is a semi-hardcore, progression-focused guild on Zul'Jin-Horde.  We push for competitive mythic progression each tier.  And strive to build a team of like-minded individuals who want to slay Internet dragons with us!
 intro_actions:
-  - label: Learn More
-    url: /about
+  - label: Roster
+    url: /roster
     style: primary
-  - label: Contact
-    url: /contact
+  - label: Apply
+    url: /apply
     style: secondary
 has_more_link: true
 more_link_text: Read more
