@@ -2,7 +2,7 @@
 title: Home
 has_intro: true
 intro_content: >-
-  <The Aftermath> is a semi-hardcore, progression-focused guild on Zul'Jin-Horde.  We push for competitive mythic progression each tier.  And strive to build a team of like-minded individuals who want to slay Internet dragons with us!
+  &amp;The Aftermath> is a semi-hardcore, progression-focused guild on Zul'Jin-Horde.  We push for competitive mythic progression each tier.  And strive to build a team of like-minded individuals who want to slay Internet dragons with us!
 intro_actions:
   - label: Roster
     url: /roster
