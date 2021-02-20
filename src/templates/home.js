@@ -57,7 +57,7 @@ export default class Home extends React.Component {
                           <time className="published"
                           dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d, %Y')}</time>
                         </div>
-                        <h2 className="post-title"><Link to={withPrefix(_.get(post, 'url', null))} rel="bookmark">{_.get(post, 'frontmatter.title', null)}</Link></h2>
+                        <h2 className="post-title">{_.get(post, 'frontmatter.title', null)}</h2>
                       </header>
                       <div className="post-excerpt">
                         {_.get(post, 'frontmatter.excerpt', null) && (
