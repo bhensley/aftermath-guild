@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: The Aftermath is a new guild, raiding on Zul'Jin Horde!
     - name: 'twitter:image'
-      value: images/9.jpg
+      value: images/aftermath-logo.png
       relativeUrl: true
 template: post
 ---
