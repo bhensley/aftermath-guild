@@ -8,7 +8,7 @@ thumb_img_alt: Aftermath Logo
 content_img_path: images/aftermath-logo.png
 content_img_alt: Aftermath Logo
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: New Guild Who Dis?
   description: Work at home parent is an entrepreneur who works from home
   extra:
     - name: 'og:type'
