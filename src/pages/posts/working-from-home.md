@@ -18,7 +18,7 @@ seo:
       value: ew Guild Who Dis?
       keyName: property
     - name: 'og:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: The Aftermath is a new guild, raiding on Zul'Jin Horde!
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
