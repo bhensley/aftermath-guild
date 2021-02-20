@@ -15,7 +15,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: ew Guild Who Dis?
+      value: New Guild Who Dis?
       keyName: property
     - name: 'og:description'
       value: The Aftermath is a new guild, raiding on Zul'Jin Horde!
