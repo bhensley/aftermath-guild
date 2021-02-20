@@ -50,7 +50,6 @@ export default class Home extends React.Component {
                   <div className="post-card-inside">
                     {_.get(post, 'frontmatter.thumb_img_path', null) && (
                       <img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />
-                    </Link>
                     )}
                     <div className="post-card-content">
                       <header className="post-header">
