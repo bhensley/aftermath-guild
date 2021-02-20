@@ -36,6 +36,6 @@ seo:
 template: post
 ---
 
-It's official!  The Aftermath is now live and recruiting on Zul'Jin Horde.  Splitting off from a severely dysfunctional guild, our raid team has demonstrated the capability to push mythic progression already.  The new guild only serves to strengthen that progression, by eliminating 
+It's official!  The Aftermath is now live and recruiting on Zul'Jin Horde.  Splitting off from a severely dysfunctional guild, our raid team has demonstrated the capability to push mythic progression already.  The new guild only serves to strengthen that progression.  Let's kick some ass!
 
 
