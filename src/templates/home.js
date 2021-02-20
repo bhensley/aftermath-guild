@@ -66,9 +66,6 @@ export default class Home extends React.Component {
                         <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
                         )}
                         {((_.get(this.props, 'pageContext.frontmatter.has_more_link', null) === true) && _.get(this.props, 'pageContext.frontmatter.more_link_text', null)) && (
-                        <p className="read-more">
-                          <Link className="button button-secondary" to={withPrefix(_.get(post, 'url', null))}>{_.get(this.props, 'pageContext.frontmatter.more_link_text', null)}</Link>
-                        </p>
                         )}
                       </div>
                     </div>
