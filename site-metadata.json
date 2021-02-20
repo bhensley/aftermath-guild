@@ -13,11 +13,6 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Roster",
                 "url": "/roster",
                 "style": "link"
